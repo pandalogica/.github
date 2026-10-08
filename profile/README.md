@@ -3,6 +3,8 @@
 <p align="center"><strong>Your data. The answers you need. MBI delivers today.</strong></p>
 <p align="center"><a href="https://pandalogica.com/">Visit pandalogica.com</a> &nbsp;·&nbsp; <a href="https://pandalogica.com/help/contact">Talk to our team</a></p>
 
+![Panda wearing work clothes and holding a measuring tape beside the MBI message](../assets/panda-measuring-clothes.png)
+
 ## Business intelligence built around the data you already have
 
 MBI turns information in your business systems into dashboards and reports that help people understand what is happening and decide what to do next. It connects to IBM i data without requiring a separate copy of that data for reporting.
