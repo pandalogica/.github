@@ -1,6 +1,6 @@
 # PandaLogica
 
-**Know your business. Move sooner.**
+**Your data. The answers you need. MBI delivers today.**
 
 PandaLogica makes MBI, a business intelligence product that helps teams explore the data already in their business systems. Build dashboards, examine detailed reports, and schedule reporting without copying business data into a separate reporting store.
 
