@@ -1,9 +1,21 @@
-# PandaLogica
+<div align="center">
+  <img src="../assets/pandalogica-mark.png" alt="PandaLogica panda mark" width="96" height="96">
+  <h1>PandaLogica</h1>
+  <p><strong>Your data. The answers you need. MBI delivers today.</strong></p>
+  <p>Clear dashboards and reports from the business data you already have.</p>
+  <p><a href="https://pandalogica.com/">Explore MBI</a> · <a href="https://pandalogica.com/help/contact">Contact our team</a></p>
+</div>
 
-**Your data. The answers you need. MBI delivers today.**
+---
 
-PandaLogica makes MBI, a business intelligence product that helps teams explore the data already in their business systems. Build dashboards, examine detailed reports, and schedule reporting without copying business data into a separate reporting store.
+## Make more of the data in your systems
 
-MBI connects to IBM i systems and helps people move from an overview to the details behind it. Teams can start with prepared reports where a compatible accelerator pack is available, then adapt reports and layouts to their needs.
+MBI helps teams turn operational data into a clearer picture of the business. Connect to IBM i data, explore it through dashboards and detailed reports, and keep reporting current without moving that data into a separate store.
 
-Explore [MBI and PandaLogica](https://pandalogica.com/) or [get in touch](https://pandalogica.com/help/contact).
+- **See the whole picture.** Bring important measures together in dashboards that are easy to explore.
+- **Follow the detail.** Move from an overview into the reports and records behind it.
+- **Keep people informed.** Schedule reports for the people who need them.
+
+Where a compatible accelerator pack is available, teams can start with prepared reports and adapt them as their needs change.
+
+**Ready to see what MBI can do with your data?** [Start a conversation](https://pandalogica.com/help/contact).
