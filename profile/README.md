@@ -1,21 +1,34 @@
-<div align="center">
-  <img src="../assets/pandalogica-mark.png" alt="PandaLogica panda mark" width="96" height="96">
-  <h1>PandaLogica</h1>
-  <p><strong>Your data. The answers you need. MBI delivers today.</strong></p>
-  <p>Clear dashboards and reports from the business data you already have.</p>
-  <p><a href="https://pandalogica.com/">Explore MBI</a> · <a href="https://pandalogica.com/help/contact">Contact our team</a></p>
-</div>
+![PandaLogica. Your data. The answers you need. MBI delivers today.](../assets/public-profile-banner.svg)
 
----
+<p align="center"><strong>Your data. The answers you need. MBI delivers today.</strong></p>
+<p align="center"><a href="https://pandalogica.com/">Visit pandalogica.com</a> &nbsp;·&nbsp; <a href="https://pandalogica.com/help/contact">Talk to our team</a></p>
 
-## Make more of the data in your systems
+![Panda wearing work clothes and holding a measuring tape beside the MBI message](../assets/panda-measuring-clothes.png)
 
-MBI helps teams turn operational data into a clearer picture of the business. Connect to IBM i data, explore it through dashboards and detailed reports, and keep reporting current without moving that data into a separate store.
+## Business intelligence built around the data you already have
 
-- **See the whole picture.** Bring important measures together in dashboards that are easy to explore.
-- **Follow the detail.** Move from an overview into the reports and records behind it.
-- **Keep people informed.** Schedule reports for the people who need them.
+MBI turns information in your business systems into dashboards and reports that help people understand what is happening and decide what to do next. It connects to IBM i data without requiring a separate copy of that data for reporting.
 
-Where a compatible accelerator pack is available, teams can start with prepared reports and adapt them as their needs change.
+### 01 / See the whole picture
 
-**Ready to see what MBI can do with your data?** [Start a conversation](https://pandalogica.com/help/contact).
+Bring the measures that matter together in clear, interactive dashboards. Start with an overview, then look more closely where something needs attention.
+
+### 02 / Follow the detail
+
+Move from a dashboard into detailed reports. Explore the records behind a result and find related views without losing the question you started with.
+
+### 03 / Keep everyone informed
+
+Save useful layouts and schedule reports for the people who need them. Your team can return to a familiar view while the underlying business data stays current.
+
+## MBI in view
+
+![MBI Sales overview dashboard showing maps, charts, and filters](../assets/mbi-sales-overview.jpeg)
+
+*MBI Sales overview dashboard, featured on [pandalogica.com](https://pandalogica.com/).*
+
+## Start with a useful foundation
+
+Where a compatible accelerator pack is available, prepared reports can give teams a starting point on their live data. Adapt those reports and layouts as questions change.
+
+**See how MBI could work with your systems.** [Explore the public website](https://pandalogica.com/) or [get in touch](https://pandalogica.com/help/contact).
